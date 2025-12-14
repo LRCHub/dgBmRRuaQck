@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Shake hands",
+  "base_artist": "ポルノグラフィティ",
+  "createdAt": "2025-12-14T08:27:01.105139Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Shake Hands",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/01_Let's_Shake_Hands_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shake Hands with Santa Claus",
+      "artist": "Goo Goo Dolls",
+      "has_synced": false,
+      "path": "select/02_Shake_Hands_with_Santa_Claus_Goo_Goo_Dolls.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Shake Hands With Santa Claus",
+      "artist": "The Goo Goo Dolls",
+      "has_synced": false,
+      "path": "select/03_Shake_Hands_With_Santa_Claus_The_Goo_Goo_Dolls.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shake Hands With Beef",
+      "artist": "Primus",
+      "has_synced": false,
+      "path": "select/04_Shake_Hands_With_Beef_Primus.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shake Hands With Beef - extended version",
+      "artist": "Primus",
+      "has_synced": false,
+      "path": "select/05_Shake_Hands_With_Beef_-_extended_version_Primus.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shake Hands With Beef (extended version)",
+      "artist": "Primus",
+      "has_synced": true,
+      "path": "select/06_Shake_Hands_With_Beef_(extended_version)_Primus.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Even a Dog Can Shake Hands",
+      "artist": "Warren Zevon",
+      "has_synced": true,
+      "path": "select/07_Even_a_Dog_Can_Shake_Hands_Warren_Zevon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let’s Shake Hands (Live)",
+      "artist": "The White Stripes",
+      "has_synced": true,
+      "path": "select/08_Let’s_Shake_Hands_(Live)_The_White_Stripes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shake Hands and Tell Me Goodbye",
+      "artist": "Maria Muldaur",
+      "has_synced": false,
+      "path": "select/09_Shake_Hands_and_Tell_Me_Goodbye_Maria_Muldaur.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shake Hands With Santa Claus",
+      "artist": "Louis Prima",
+      "has_synced": true,
+      "path": "select/10_Shake_Hands_With_Santa_Claus_Louis_Prima.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Louis Prima - Shake Hands With Santa Claus",
+      "artist": "Louis Prima",
+      "has_synced": true,
+      "path": "select/11_Louis_Prima_-_Shake_Hands_With_Santa_Claus_Louis_Prima.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "How to Shake Hands",
+      "artist": "Clutch",
+      "has_synced": true,
+      "path": "select/12_How_to_Shake_Hands_Clutch.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shake Hands With Beef",
+      "artist": "Primus",
+      "has_synced": true,
+      "path": "select/13_Shake_Hands_With_Beef_Primus.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shake Hands With Santa Claus",
+      "artist": "Louis Prima",
+      "has_synced": false,
+      "path": "select/14_Shake_Hands_With_Santa_Claus_Louis_Prima.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shake Hands And Walk Away Crying",
+      "artist": "Lou Christie",
+      "has_synced": false,
+      "path": "select/15_Shake_Hands_And_Walk_Away_Crying_Lou_Christie.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shake Hands and Walk Away Cryin'",
+      "artist": "Lou Christie",
+      "has_synced": false,
+      "path": "select/16_Shake_Hands_and_Walk_Away_Cryin'_Lou_Christie.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shake Hands with Santa Claus - Mono Recording",
+      "artist": "Louis Prima",
+      "has_synced": false,
+      "path": "select/17_Shake_Hands_with_Santa_Claus_-_Mono_Recording_Louis_Prima.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shake hands",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_Shake_hands_ポルノグラフィティ.txt"
+    }
+  ]
+}
